@@ -186,7 +186,8 @@
       /^View all \d+ repl/i,
       /^View more repl/i,
       /^View previous repl/i,
-      /^\d+ repl/i
+      /^\d+ repl/i,
+      /replied.*\d+ repl/i
     ]);
   }
 
