@@ -9,7 +9,7 @@ Visit [bookmarklets.notalex.sh](https://bookmarklets.notalex.sh) and drag any li
 
 ### Import all bookmarklets
 
-Download [`bookmarks.html`](https://github.com/notalex-sh/osint-bookmarklets/raw/main/dist/bookmarks.html) and import it into your browser (**Bookmarks → Import Bookmarks from HTML file**). All 22 bookmarklets will be added in an **OSINT Bookmarklets** folder organized by platform.
+Download [`bookmarks.html`](https://github.com/notalex-sh/osint-bookmarklets/raw/main/dist/bookmarks.html) and import it into your browser (**Bookmarks → Import Bookmarks from HTML file**). All 23 bookmarklets will be added in an **OSINT Bookmarklets** folder organized by platform.
 
 ### Copy and paste
 
@@ -37,6 +37,7 @@ The un-minified source files are in `bookmarklets/`. Convert them to bookmarklet
 |---|---|
 | **Facebook ID** | Extract profile ID, username, and display name from a profile page |
 | **Facebook Marketplace** | Extract user ID and open their Marketplace seller page |
+| **Facebook Listing Timestamp** | Show the exact date a Marketplace listing was created |
 | **Facebook Expand Comments** | Switch to "All comments", expand every comment, reply, and "See more" |
 
 ### Google
